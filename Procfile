@@ -1,1 +1,1 @@
-web: gunicorn app:HousePred
+web: gunicorn HousePred:app
